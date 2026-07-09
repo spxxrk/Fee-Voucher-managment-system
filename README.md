@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Fee-Voucher-Management-System-LARAVEL
+## Fee-Voucher-Management-System-LARAVEL
 
 Fee voucher management system built with Laravel (MVC) and Blade templates. Generates fee vouchers with one click and stores them in a mysql database
